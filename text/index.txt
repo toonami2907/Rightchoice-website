@@ -1,0 +1,49 @@
+flight booking :
+Flight Reservation and Booking
+We have a robust online flight booking 
+system which gives us an edge at booking local and international flights at competitive prices. We provide 
+travel advisory services and 
+a structured travel itinerary for clients to suit their interests.
+ We also handle changes and other issues that may pop up before or during the trip.
+
+
+
+VISA ASSISTANCE | DOCUMENTATIONS | VISA SUPPORT
+
+ Rightchoioce Travels & Tours provides visa assistance, visa support, documentations and we also help our clients to obtain a
+ valid visa to travel to countries around the world, and other visa related services to individuals and corporate clients across industries.
+We have built a trusted corporate portfolio across embassies and consulates in Nigeria and beyond, and this gives us a kind of unparalleled 
+leverage over the competition. We pursue all those little applications, facilitating and providing advisory services in relation 
+ to visa acquisition for and on behalf of clients.
+Visa Consultation
+We provide visa consultation and visa support packages to most countries worldwide, providing visa forms, requirements and documentations.
+
+Our main destinations includes:
+import {
+  Navbar,
+  MobileNav,
+  Typography,
+  Button,
+  IconButton,
+  Card,
+} from "@material-tailwind/react";
+
+
+Study Abroad Packages
+rightchoioce Travels and Tours is an official representative of a wide range of universities 
+and colleges worldwide. We have study abroad packages for countries like Turkey, UK, Cyprus, Canada, Scotland, etc. Our Study Abroad 
+packages include admission processing, visa support, fees payment, scholarship abroad, 
+etc. We have a track record of successful admission processings. When you buy any
+of our study abroad package, with the right document and our assistance, your admission is guaranteed..
+
+
+
+Travel Insurance
+Travel Insurance
+
+Hotel Reservations & Airport PickUp Services
+Our Reservations packages are available for individual, couples and groups. We also pre-arrange airport 
+Transfers from and to most airport globally, transportation for travelers between an airport and their destination,
+ whether it be a hotel, cruise port or another local point of interest. With over 200,000 hotels worldwide, 
+ our clients are guaranteed to get the best of relaxation
+
