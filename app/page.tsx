@@ -14,6 +14,8 @@ import Services from '@/components/Services';
 import HotOffers from '@/components/HotOffers';
 import { useEffect, useState } from 'react';
 import Testimonials from '@/components/Testimonials';
+import HomeCta from '@/components/HomeCta';
+import SecondCta from '@/components/SecondCta';
 
 
 const perks = [
@@ -53,9 +55,11 @@ const perks = [
 export default function Home() {
   return (  
 <>
-<HomePage />
+<HomeCta/>
+<SecondCta/>
+{/* <HomePage /> */}
 <Services />
 <HotOffers />
 <Testimonials/>
 </>
-      )}
+  )}

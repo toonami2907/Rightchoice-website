@@ -83,7 +83,7 @@ const HotOffers = () => {
                   <img
                     src={product.imageSrc}
                     alt={product.imageAlt}
-                    className="h-[49] w-[49] object-cover object-center lg:w-full"
+                    className="h-[49] w-[49]  sm:h-[35] sm:w-[35] object-cover object-center lg:w-full"
                   />
                   <div className='mt-4 flex justify-between'>
                     <div>

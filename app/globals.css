@@ -116,3 +116,26 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+@font-face {
+  font-family: inter;
+  src: url(../Inter/static/Inter-Regular.ttf);
+}
+.inter {
+  font-family: inter;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(../Roboto/Roboto-Regular.ttf);
+}
+.Roboto {
+  font-family: Roboto;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(../Poppins/Poppins-Regular.ttf);
+}
+.Poppins {
+  font-family: Poppins;
+}
